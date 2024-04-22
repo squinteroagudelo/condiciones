@@ -1,0 +1,14 @@
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\bin\Debug\net8.0\triangulo.exe
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\bin\Debug\net8.0\triangulo.deps.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\bin\Debug\net8.0\triangulo.runtimeconfig.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\bin\Debug\net8.0\triangulo.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\bin\Debug\net8.0\triangulo.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\triangulo.AssemblyInfoInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\triangulo.AssemblyInfo.cs
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\triangulo.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\refint\triangulo.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\triangulo.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\triangulo.genruntimeconfig.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\triangulo\obj\Debug\net8.0\ref\triangulo.dll

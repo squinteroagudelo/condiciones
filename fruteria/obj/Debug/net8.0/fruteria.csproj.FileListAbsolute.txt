@@ -1,0 +1,14 @@
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\bin\Debug\net8.0\fruteria.exe
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\bin\Debug\net8.0\fruteria.deps.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\bin\Debug\net8.0\fruteria.runtimeconfig.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\bin\Debug\net8.0\fruteria.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\bin\Debug\net8.0\fruteria.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\fruteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\fruteria.AssemblyInfoInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\fruteria.AssemblyInfo.cs
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\fruteria.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\fruteria.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\refint\fruteria.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\fruteria.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\fruteria.genruntimeconfig.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\condiciones\fruteria\obj\Debug\net8.0\ref\fruteria.dll
